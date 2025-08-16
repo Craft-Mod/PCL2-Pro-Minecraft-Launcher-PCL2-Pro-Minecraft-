@@ -1,0 +1,10 @@
+<ItemGroup>
+    <!-- ZeroTier 网络库 -->
+    <PackageReference Include="ZeroTier.Sockets" Version="1.1.0" />
+    
+    <!-- JSON处理 -->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    
+    <!-- HTTP客户端 -->
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+</ItemGroup>

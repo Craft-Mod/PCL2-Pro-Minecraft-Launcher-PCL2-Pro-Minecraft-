@@ -1,0 +1,23 @@
+{
+  "Bedrock": {
+    "LastUsedVersion": "",
+    "ResourcePacks": []
+  },
+  "Network": {
+    "ZeroTierNetworkId": "",
+    "LastJoinedNetwork": ""
+  },
+  "Auth": {
+    "ExternalProviders": {
+      "littleskin": true,
+      "redstone": true,
+      "custom": ""
+    }
+  },
+  "ResourceSources": {
+    "Mod": ["CurseForge", "Modrinth", "MC百科"],
+    "ResourcePack": ["CurseForge", "Modrinth","TexturePacks"],
+    "World": ["PlanetMinecraft", "MinecraftMaps"],
+    "DataPack": ["VanillaTweaks", "MC百科"]
+  }
+}

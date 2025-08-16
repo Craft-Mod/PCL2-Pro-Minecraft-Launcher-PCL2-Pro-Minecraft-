@@ -1,0 +1,6 @@
+<ItemGroup>
+	<!-- 包含 ZeroTier 原生库 -->
+	<Content Include="Libs\ZeroTier\native\x64\*.dll">
+		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	</Content>
+</ItemGroup>
